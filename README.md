@@ -1,16 +1,10 @@
-# loud
+![Alt text](assets/screenshots/loud1.JPG?raw=true )
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](assets/screenshots/loud2.JPG?raw=true )
+![Alt text](assets/screenshots/loud3.JPG?raw=true )
+![Alt text](assets/screenshots/loud4.JPG?raw=true )
+![Alt text](assets/screenshots/loud5.JPG?raw=true )
+![Alt text](assets/screenshots/loud6.JPG?raw=true )
+![Alt text](assets/screenshots/loud7.JPG?raw=true )
+![Alt text](assets/screenshots/loud8.JPG?raw=true )
+![Alt text](assets/screenshots/loud9.JPG?raw=true )
